@@ -7,10 +7,7 @@ Personalized Recipe Recommender System
 UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
 
 ## Author Name
-Mounika Reddy Kummetha
-
-## Profiles and Presentations
-- **GitHub Profile:** https://github.com/mounikakummetha
+Nithin Reddy Tummala
 
 ## 2. Background
 
